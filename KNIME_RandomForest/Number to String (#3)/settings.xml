@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="include">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Ins"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="45"/>
+                <entry key="0" type="xstring" value="Identificador"/>
+                <entry key="1" type="xstring" value="AcctAge"/>
+                <entry key="2" type="xstring" value="DDA"/>
+                <entry key="3" type="xstring" value="DDABal"/>
+                <entry key="4" type="xstring" value="CashBk"/>
+                <entry key="5" type="xstring" value="Checks"/>
+                <entry key="6" type="xstring" value="DirDep"/>
+                <entry key="7" type="xstring" value="NSF"/>
+                <entry key="8" type="xstring" value="NSFAmt"/>
+                <entry key="9" type="xstring" value="Teller"/>
+                <entry key="10" type="xstring" value="Sav"/>
+                <entry key="11" type="xstring" value="SavBal"/>
+                <entry key="12" type="xstring" value="ATM"/>
+                <entry key="13" type="xstring" value="ATMAmt"/>
+                <entry key="14" type="xstring" value="POS"/>
+                <entry key="15" type="xstring" value="POSAmt"/>
+                <entry key="16" type="xstring" value="CD"/>
+                <entry key="17" type="xstring" value="CDBal"/>
+                <entry key="18" type="xstring" value="IRA"/>
+                <entry key="19" type="xstring" value="IRABal"/>
+                <entry key="20" type="xstring" value="LOC"/>
+                <entry key="21" type="xstring" value="LOCBal"/>
+                <entry key="22" type="xstring" value="ILS"/>
+                <entry key="23" type="xstring" value="ILSBal"/>
+                <entry key="24" type="xstring" value="MM"/>
+                <entry key="25" type="xstring" value="MMBal"/>
+                <entry key="26" type="xstring" value="MMCred"/>
+                <entry key="27" type="xstring" value="MTG"/>
+                <entry key="28" type="xstring" value="MTGBal"/>
+                <entry key="29" type="xstring" value="CC"/>
+                <entry key="30" type="xstring" value="CCBal"/>
+                <entry key="31" type="xstring" value="CCPurc"/>
+                <entry key="32" type="xstring" value="SDB"/>
+                <entry key="33" type="xstring" value="Income"/>
+                <entry key="34" type="xstring" value="HMOwn"/>
+                <entry key="35" type="xstring" value="LORes"/>
+                <entry key="36" type="xstring" value="HMVal"/>
+                <entry key="37" type="xstring" value="Age"/>
+                <entry key="38" type="xstring" value="CRScore"/>
+                <entry key="39" type="xstring" value="Moved"/>
+                <entry key="40" type="xstring" value="InArea"/>
+                <entry key="41" type="xstring" value="Dep"/>
+                <entry key="42" type="xstring" value="DepAmt"/>
+                <entry key="43" type="xstring" value="Inv"/>
+                <entry key="44" type="xstring" value="InvBal"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist"/>
+            </config>
+        </config>
+    </config>
+    <config key="variables"/>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.colconvert.numbertostring2.NumberToString2NodeFactory"/>
+    <entry key="node-name" type="xstring" value="Number to String"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.2.v202409100934"/>
+    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Number to String"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 27460, Cols: 48"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="bb72e9bf-0fd4-4bbc-ba24-20afd95c9dab"/>
+    </config>
+</config>
