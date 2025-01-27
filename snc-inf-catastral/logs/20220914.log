@@ -1,0 +1,845 @@
+2022-09-14 17:10:41,015 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:10:47,456 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:10:47,458 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:10:47,539 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:10:47,918 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:10:47,919 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:10:47,921 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:13:03,677 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:16:12,870 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:16:13,543 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:16:13,546 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:16:13,627 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:16:14,075 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:16:14,078 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:16:14,081 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:18:28,944 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:21:30,994 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:21:31,645 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:21:31,646 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:21:31,708 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:21:32,093 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:21:32,094 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:21:32,096 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:23:42,532 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:25:20,895 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:25:21,437 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:25:21,437 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:25:21,547 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:25:21,965 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:25:21,966 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:25:21,966 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:27:36,948 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:29:33,565 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:29:34,211 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:29:34,213 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:29:35,340 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:29:35,790 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:29:35,791 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:29:35,792 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:31:54,930 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:34:48,707 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:34:49,715 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:34:49,717 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:34:49,806 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:34:50,212 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:34:50,213 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:34:50,215 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:35:04,687 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:35:20,958 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:35:21,611 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:35:21,612 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:35:22,203 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:35:22,664 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:35:22,666 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:35:22,668 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:37:32,301 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:38:47,342 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:38:48,033 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:38:48,035 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:38:48,097 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:38:48,481 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:38:48,484 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:38:48,485 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:41:01,212 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:44:54,694 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:44:55,356 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:44:55,357 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:44:55,446 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:44:56,015 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:44:56,020 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:44:56,023 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:47:15,452 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:51:11,599 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:51:12,218 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:51:12,220 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:51:13,347 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:51:13,750 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:51:13,751 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:51:13,751 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:53:26,502 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:54:49,338 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:54:49,898 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:54:49,899 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:54:49,954 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:54:50,337 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:54:50,338 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:54:50,339 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:57:00,015 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:57:33,391 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:57:34,035 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:57:34,035 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:57:34,106 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:57:34,488 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:57:34,489 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:57:34,490 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 17:57:44,060 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 17:57:55,056 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 17:57:55,640 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 17:57:55,640 - INFO : Creando conexion con servidor geográfico
+2022-09-14 17:57:56,756 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 17:57:57,201 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 17:57:57,202 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 17:57:57,202 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:00:11,925 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:06:40,853 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:06:41,534 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:06:41,535 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:06:41,605 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:06:42,026 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:06:42,028 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:06:42,033 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:09:07,273 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno"]} para id municipio-> 27580
+2022-09-14 18:09:07,275 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/27580/2022/27580_2022-09-14 generada
+2022-09-14 18:09:07,276 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27580_2022-09-14
+2022-09-14 18:09:07,378 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 18:09:07,617 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 18:09:07,622 - INFO : Authentication (password) successful!
+2022-09-14 18:09:07,896 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 18:09:08,538 - INFO : [chan 0] sftp session closed.
+2022-09-14 18:09:08,570 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 0.027923583984375 segundos para id municipio -> 27580
+2022-09-14 18:09:08,578 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.007978200912475586 segundos27580
+2022-09-14 18:09:08,579 - INFO : Ejecutando consulta: predio.sql para id municipio -> 27580
+2022-09-14 18:09:10,883 - INFO : Tiempo de ejecución de la consulta predio.sql: 2.303952932357788 segundos para id municipio -> 27580
+2022-09-14 18:09:10,890 - INFO : Tiempo de escritura XTF: 2.310939073562622 segundos para id municipio -> 27580
+2022-09-14 18:09:10,890 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 27580
+2022-09-14 18:09:11,103 - INFO : Tiempo de ejecución de la consulta terreno.sql: 0.21325922012329102 segundos para id municipio -> 27580
+2022-09-14 18:09:11,105 - INFO : Tiempo de escritura XTF: 0.21512985229492188 segundos para id municipio -> 27580
+2022-09-14 18:09:11,105 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 27580
+2022-09-14 18:09:11,373 - INFO : Tiempo de ejecución de la consulta construccion.sql: 0.2680203914642334 segundos para id municipio -> 27580
+2022-09-14 18:09:11,375 - INFO : Tiempo de escritura XTF: 0.27000927925109863 segundos para id municipio -> 27580
+2022-09-14 18:09:11,377 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 27580
+2022-09-14 18:09:11,664 - INFO : Tiempo de ejecución de la consulta caracteristica_unidad_construccion.sql: 0.2872953414916992 segundos para id municipio -> 27580
+2022-09-14 18:09:11,667 - INFO : Tiempo de escritura XTF: 0.29029011726379395 segundos para id municipio -> 27580
+2022-09-14 18:09:11,669 - INFO : Ejecutando consulta: unidad_construccion.sql para id municipio -> 27580
+2022-09-14 18:09:11,954 - INFO : Tiempo de ejecución de la consulta unidad_construccion.sql: 0.2841224670410156 segundos para id municipio -> 27580
+2022-09-14 18:09:11,956 - INFO : Tiempo de escritura XTF: 0.28610777854919434 segundos para id municipio -> 27580
+2022-09-14 18:09:11,958 - INFO : Ejecutando consulta: interesado.sql para id municipio -> 27580
+2022-09-14 18:09:12,296 - INFO : Tiempo de ejecución de la consulta interesado.sql: 0.33855271339416504 segundos para id municipio -> 27580
+2022-09-14 18:09:12,307 - INFO : Tiempo de escritura XTF: 0.3495512008666992 segundos para id municipio -> 27580
+2022-09-14 18:09:12,311 - INFO : Ejecutando consulta: datos_ph_condominio.sql para id municipio -> 27580
+2022-09-14 18:09:12,590 - INFO : Tiempo de ejecución de la consulta datos_ph_condominio.sql: 0.2789733409881592 segundos para id municipio -> 27580
+2022-09-14 18:09:12,592 - INFO : Tiempo de escritura XTF: 0.28098583221435547 segundos para id municipio -> 27580
+2022-09-14 18:09:12,594 - INFO : Ejecutando consulta: fuente_administrativa.sql para id municipio -> 27580
+2022-09-14 18:09:12,824 - INFO : Tiempo de ejecución de la consulta fuente_administrativa.sql: 0.23071718215942383 segundos para id municipio -> 27580
+2022-09-14 18:09:12,832 - INFO : Tiempo de escritura XTF: 0.23869752883911133 segundos para id municipio -> 27580
+2022-09-14 18:09:12,836 - INFO : Ejecutando consulta: agrupacion_interesados.sql para id municipio -> 27580
+2022-09-14 18:09:13,108 - INFO : Tiempo de ejecución de la consulta agrupacion_interesados.sql: 0.27318739891052246 segundos para id municipio -> 27580
+2022-09-14 18:09:13,111 - INFO : Tiempo de escritura XTF: 0.27618908882141113 segundos para id municipio -> 27580
+2022-09-14 18:09:13,113 - INFO : Ejecutando consulta: derecho.sql para id municipio -> 27580
+2022-09-14 18:09:13,303 - INFO : Tiempo de ejecución de la consulta derecho.sql: 0.18957090377807617 segundos para id municipio -> 27580
+2022-09-14 18:09:13,311 - INFO : Tiempo de escritura XTF: 0.19852542877197266 segundos para id municipio -> 27580
+2022-09-14 18:09:13,314 - INFO : Ejecutando consulta: tramite_catastral.sql para id municipio -> 27580
+2022-09-14 18:09:13,968 - INFO : Tiempo de ejecución de la consulta tramite_catastral.sql: 0.6539609432220459 segundos para id municipio -> 27580
+2022-09-14 18:09:13,972 - INFO : Tiempo de escritura XTF: 0.656975269317627 segundos para id municipio -> 27580
+2022-09-14 18:09:13,974 - INFO : Escribiendo la relación RIC_CaracteristicasUnidadConstruccion...
+2022-09-14 18:09:13,977 - INFO : Escribiendo la relación col_ueBaunit...
+2022-09-14 18:09:13,979 - INFO : Escribiendo la relación col_rrrFuente...
+2022-09-14 18:09:13,983 - INFO : Escribiendo la relación ric_predio_tramitecatastral...
+2022-09-14 18:09:13,986 - INFO : Escribiendo la relación ric_predio_copropiedad...
+2022-09-14 18:09:13,989 - INFO : Escribiendo la relación col_miembros...
+2022-09-14 18:09:13,991 - INFO : Escribiendo la relación col_unidadfuente...
+2022-09-14 18:09:13,994 - INFO : Tiempo total de ejecución: 5.45217227935791 segundos para id municipio -> 27580
+2022-09-14 18:09:13,997 - INFO : Proceso de generación de reporte XTF para el id municipio -> 27580 finalizado
+2022-09-14 18:09:14,001 - INFO : Ruta local generada para el reporte XTF -> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27580_2022-09-14.xtf
+2022-09-14 18:09:14,083 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 18:09:14,333 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 18:09:14,339 - INFO : Authentication (password) successful!
+2022-09-14 18:09:14,614 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 18:09:14,641 - INFO : Directorio remoto para -> /FTP/XTF/export-files/27580/2022/ creado
+2022-09-14 18:09:14,815 - INFO : Fichero remoto -> /FTP/XTF/export-files/27580/2022//27580_2022-09-14.xtf cargado
+2022-09-14 18:09:14,817 - INFO : [chan 0] sftp session closed.
+2022-09-14 18:09:14,936 - INFO : Obteniendo reglas de validación de la información alfanumérica para id municipio -> 27580
+2022-09-14 18:09:15,023 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PERSONA_PREDIO_PROPIEDAD PPP         LEFT JOIN PERSONA_PREDIO PP     ON PPP.PERSONA_PREDIO_ID = PP.ID          LEFT JOIN PREDIO P              ON (PP.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU         ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE      ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.ID IS NULL         AND         P.MUNICIPIO_CODIGO = :municipio_codigo
+2022-09-14 18:09:15,087 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.06400656700134277 segundos para regla ->  Un registro de derecho tiene que estar relacionado a un registro en predio
+2022-09-14 18:09:15,088 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM FICHA_MATRIZ FM         LEFT JOIN PREDIO P ON (FM.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 18:09:15,135 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.04743766784667969 segundos para regla -> Un registro de datos PH condominio tiene que estar relacionado con un registro de predio
+2022-09-14 18:09:15,136 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PREDIO P         LEFT JOIN TRAMITE T ON T.PREDIO_ID = P.ID         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 18:09:15,205 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.06878137588500977 segundos para regla -> Un registro de predio puede estar relacionado con un registro de tramite catastral o puede estar relacionado con muchos registros de tramite catastral.
+2022-09-14 18:09:15,206 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND NOT REGEXP_LIKE(SUBSTR(p.numero_predial, 6, 2), '[0-9]')
+2022-09-14 18:09:15,269 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.06363201141357422 segundos para regla -> El predio no cuenta con un número predial numérico
+2022-09-14 18:09:15,270 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.tipo IN (' ', 'A', 'C', 'D', 'F', 'G', 'H', 'M', 'N', 'I', 'V')
+2022-09-14 18:09:15,328 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05850577354431152 segundos para regla -> El predio no cuenta con un tipo homologable
+2022-09-14 18:09:15,329 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.nupre IN ( 	        SELECT nupre_repetido FROM ( 	            SELECT nupre AS nupre_repetido, count(nupre) AS contar_nupre FROM predio WHERE municipio_codigo = :municipio_codigo GROUP BY nupre 	        ) WHERE contar_nupre > 1 	    )
+2022-09-14 18:09:15,383 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05430459976196289 segundos para regla -> El NUPRE del predio esta duplicado
+2022-09-14 18:09:15,384 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND (p.nupre IS NULL OR p.nupre = '')
+2022-09-14 18:09:15,431 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.046793222427368164 segundos para regla -> El predio no cuenta un NUPRE
+2022-09-14 18:09:15,432 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND ( 	        p.avaluo_catastral IS NULL  	        OR  	        p.avaluo_catastral < 0 	    )
+2022-09-14 18:09:15,483 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05127882957458496 segundos para regla -> El predio cuenta con un avaúo catastral negativo o no tiene
+2022-09-14 18:09:15,483 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  	p.id AS ID_PREDIO,  	p.numero_predial,  	(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 	(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 	:id_regla AS ID_REGLA, 	:regla AS REGLA  FROM PREDIO P WHERE  	P.MUNICIPIO_CODIGO = :municipio_codigo  	AND  	P.ID  NOT IN( 		SELECT   			P.ID 		FROM predio P 			INNER JOIN PERSONA_PREDIO PP ON PP.PREDIO_ID  = P.ID 			INNER JOIN PERSONA PE ON PP.PERSONA_ID = PE.ID 		WHERE  			P.MUNICIPIO_CODIGO = :municipio_codigo  			AND  			PE.TIPO_IDENTIFICACION IN ('CC', 'CE', 'NIT', 'TI', 'RC', 'P') 	)
+2022-09-14 18:09:15,559 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.07604837417602539 segundos para regla -> El propietario del predio no cuenta con un tipo de documento homologable
+2022-09-14 18:09:15,560 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.id NOT IN( 	        SELECT 	            P.ID 	        FROM PREDIO P 	            INNER JOIN PERSONA_PREDIO PP ON (P.MUNICIPIO_CODIGO = :municipio_codigo AND PP.PREDIO_ID = P.ID)  	            INNER JOIN PERSONA_PREDIO_PROPIEDAD PPP ON PPP.PERSONA_PREDIO_ID = PP.ID     	        GROUP BY 	            P.ID 	    )
+2022-09-14 18:09:16,763 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 1.2030508518218994 segundos para regla -> El predio no cuenta con al menos un derecho asociado
+2022-09-14 18:09:16,764 - INFO : Descargando archivo remoto -> /FTP/XTF/export-files/27580/2022/27580_2022-09-14_Log_Errores.json
+2022-09-14 18:09:16,847 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 18:09:17,065 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 18:09:17,066 - INFO : Authentication (password) successful!
+2022-09-14 18:09:17,350 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 18:09:17,518 - INFO : [chan 0] sftp session closed.
+2022-09-14 18:09:17,571 - INFO : Inicio generación archivo excel con logs de errores para el id municipio -> 27580
+2022-09-14 18:09:19,046 - INFO : Tiempo de generaración de excel para id municipio -> 27580 -> 1.4731230735778809 segundos
+2022-09-14 18:09:19,047 - INFO : Subiendo archivo remoto -> /FTP/XTF/export-files/27580/2022/ al servidor SFTP para id municipio -> 27580
+2022-09-14 18:09:19,108 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 18:09:19,348 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 18:09:19,358 - INFO : Authentication (password) successful!
+2022-09-14 18:09:19,628 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 18:09:19,657 - INFO : Directorio remoto para -> /FTP/XTF/export-files/27580/2022/ creado
+2022-09-14 18:09:19,791 - INFO : Fichero remoto -> /FTP/XTF/export-files/27580/2022//27580_2022-09-14.xlsx cargado
+2022-09-14 18:09:19,791 - INFO : [chan 0] sftp session closed.
+2022-09-14 18:09:19,914 - INFO : Generación del reporte para id municipio -> 27580 finalizada
+2022-09-14 18:10:40,623 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:10:41,209 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:10:41,210 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:10:41,290 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:10:41,703 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:10:41,705 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:10:41,707 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:12:52,768 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:14:49,680 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:14:50,325 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:14:50,326 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:14:50,409 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:14:50,846 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:14:50,847 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:14:50,848 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:17:04,148 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:20:46,521 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:20:47,158 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:20:47,161 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:20:47,225 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:20:47,636 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:20:47,638 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:20:47,640 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:22:53,948 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:24:13,486 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:24:14,183 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:24:14,185 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:24:14,303 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:24:14,753 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:24:14,754 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:24:14,756 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:29:29,462 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:29:39,740 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:29:40,423 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:29:40,424 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:29:40,500 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:29:40,969 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:29:40,971 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:29:40,974 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:31:54,801 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:35:20,693 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:35:21,301 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:35:21,302 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:35:21,364 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:35:21,788 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:35:21,790 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:35:21,793 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:39:29,322 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:39:38,565 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:39:39,215 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:39:39,216 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:39:39,284 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:39:39,704 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:39:39,705 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:39:39,708 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:41:50,632 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 18:48:19,109 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 18:48:19,784 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 18:48:19,784 - INFO : Creando conexion con servidor geográfico
+2022-09-14 18:48:21,993 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 18:48:22,443 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 18:48:22,444 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 18:48:22,445 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 18:50:34,070 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "error": "hola"} para id municipio-> 27580
+2022-09-14 18:50:34,072 - ERROR : Error al obtener la información geográfica para id municipio -> 27580 Error -> 'archivos'
+Traceback (most recent call last):
+  File "C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\business\informacion_catastral_business.py", line 161, in generar_reporte_hilo
+    ruta_informacion_geografica = servidor_sftp.descargar_info_geografica(fecha, disparador.id_municipio, resultado_extraccion_geografica['archivos'])
+KeyError: 'archivos'
+2022-09-14 19:03:03,260 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 19:03:03,918 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 19:03:03,920 - INFO : Creando conexion con servidor geográfico
+2022-09-14 19:03:03,992 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 19:03:04,439 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 19:03:04,440 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 19:03:04,441 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 19:03:58,871 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 19:04:11,451 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 19:04:12,400 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 19:04:12,402 - INFO : Creando conexion con servidor geográfico
+2022-09-14 19:04:12,484 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 19:04:12,899 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 19:04:12,901 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 19:04:12,904 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 19:06:30,145 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "error": "sequence size must match size of the row"} para id municipio-> 27580
+2022-09-14 19:06:30,147 - ERROR : Error al obtener la información geográfica para id municipio -> 27580 Error -> 'archivos'
+Traceback (most recent call last):
+  File "C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\business\informacion_catastral_business.py", line 161, in generar_reporte_hilo
+    ruta_informacion_geografica = servidor_sftp.descargar_info_geografica(fecha, disparador.id_municipio, resultado_extraccion_geografica['archivos'])
+KeyError: 'archivos'
+2022-09-14 19:13:07,206 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 19:13:08,022 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 19:13:08,023 - INFO : Creando conexion con servidor geográfico
+2022-09-14 19:13:08,090 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 19:13:08,519 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 19:13:08,521 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 19:13:08,523 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 19:13:21,181 - ERROR : Conexión con servidor geográfico perdida id municipio actual -> 27580
+2022-09-14 19:13:30,375 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 19:13:30,961 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 19:13:30,963 - INFO : Creando conexion con servidor geográfico
+2022-09-14 19:13:31,062 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 19:13:31,440 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 19:13:31,442 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 19:13:31,445 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 19:15:46,788 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "error": "sequence size must match size of the row"} para id municipio-> 27580
+2022-09-14 19:15:46,791 - ERROR : Error al obtener la información geográfica para id municipio -> 27580 Error -> 'archivos'
+Traceback (most recent call last):
+  File "C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\business\informacion_catastral_business.py", line 161, in generar_reporte_hilo
+    ruta_informacion_geografica = servidor_sftp.descargar_info_geografica(fecha, disparador.id_municipio, resultado_extraccion_geografica['archivos'])
+KeyError: 'archivos'
+2022-09-14 19:28:04,615 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 19:28:06,097 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 19:28:06,099 - INFO : Creando conexion con servidor geográfico
+2022-09-14 19:28:06,162 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 19:28:06,672 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 19:28:06,680 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 19:28:06,682 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 19:30:31,309 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno"]} para id municipio-> 27580
+2022-09-14 19:30:31,312 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/27580/2022/27580_2022-09-14 generada
+2022-09-14 19:30:31,314 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27580_2022-09-14
+2022-09-14 19:30:31,406 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 19:30:31,787 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 19:30:31,793 - INFO : Authentication (password) successful!
+2022-09-14 19:30:32,078 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 19:30:32,736 - INFO : [chan 0] sftp session closed.
+2022-09-14 19:30:32,829 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 0.08974218368530273 segundos para id municipio -> 27580
+2022-09-14 19:30:32,833 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.003099203109741211 segundos27580
+2022-09-14 19:30:32,836 - INFO : Ejecutando consulta: predio.sql para id municipio -> 27580
+2022-09-14 19:30:34,720 - INFO : Tiempo de ejecución de la consulta predio.sql: 1.8838632106781006 segundos para id municipio -> 27580
+2022-09-14 19:30:34,730 - INFO : Tiempo de escritura XTF: 1.8942511081695557 segundos para id municipio -> 27580
+2022-09-14 19:30:34,732 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 27580
+2022-09-14 19:30:34,942 - INFO : Tiempo de ejecución de la consulta terreno.sql: 0.20983481407165527 segundos para id municipio -> 27580
+2022-09-14 19:30:34,950 - INFO : Tiempo de escritura XTF: 0.21781086921691895 segundos para id municipio -> 27580
+2022-09-14 19:30:34,951 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 27580
+2022-09-14 19:30:35,224 - INFO : Tiempo de ejecución de la consulta construccion.sql: 0.2732059955596924 segundos para id municipio -> 27580
+2022-09-14 19:30:35,226 - INFO : Tiempo de escritura XTF: 0.2752034664154053 segundos para id municipio -> 27580
+2022-09-14 19:30:35,228 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 27580
+2022-09-14 19:30:35,489 - INFO : Tiempo de ejecución de la consulta caracteristica_unidad_construccion.sql: 0.26203107833862305 segundos para id municipio -> 27580
+2022-09-14 19:30:35,490 - INFO : Tiempo de escritura XTF: 0.26302289962768555 segundos para id municipio -> 27580
+2022-09-14 19:30:35,492 - INFO : Ejecutando consulta: unidad_construccion.sql para id municipio -> 27580
+2022-09-14 19:30:35,802 - INFO : Tiempo de ejecución de la consulta unidad_construccion.sql: 0.3103821277618408 segundos para id municipio -> 27580
+2022-09-14 19:30:35,804 - INFO : Tiempo de escritura XTF: 0.3123757839202881 segundos para id municipio -> 27580
+2022-09-14 19:30:35,807 - INFO : Ejecutando consulta: interesado.sql para id municipio -> 27580
+2022-09-14 19:30:36,002 - INFO : Tiempo de ejecución de la consulta interesado.sql: 0.1950993537902832 segundos para id municipio -> 27580
+2022-09-14 19:30:36,012 - INFO : Tiempo de escritura XTF: 0.2050764560699463 segundos para id municipio -> 27580
+2022-09-14 19:30:36,014 - INFO : Ejecutando consulta: datos_ph_condominio.sql para id municipio -> 27580
+2022-09-14 19:30:36,254 - INFO : Tiempo de ejecución de la consulta datos_ph_condominio.sql: 0.24054837226867676 segundos para id municipio -> 27580
+2022-09-14 19:30:36,256 - INFO : Tiempo de escritura XTF: 0.24254894256591797 segundos para id municipio -> 27580
+2022-09-14 19:30:36,258 - INFO : Ejecutando consulta: fuente_administrativa.sql para id municipio -> 27580
+2022-09-14 19:30:36,452 - INFO : Tiempo de ejecución de la consulta fuente_administrativa.sql: 0.1936016082763672 segundos para id municipio -> 27580
+2022-09-14 19:30:36,461 - INFO : Tiempo de escritura XTF: 0.20259714126586914 segundos para id municipio -> 27580
+2022-09-14 19:30:36,464 - INFO : Ejecutando consulta: agrupacion_interesados.sql para id municipio -> 27580
+2022-09-14 19:30:36,737 - INFO : Tiempo de ejecución de la consulta agrupacion_interesados.sql: 0.27336812019348145 segundos para id municipio -> 27580
+2022-09-14 19:30:36,740 - INFO : Tiempo de escritura XTF: 0.2755410671234131 segundos para id municipio -> 27580
+2022-09-14 19:30:36,742 - INFO : Ejecutando consulta: derecho.sql para id municipio -> 27580
+2022-09-14 19:30:36,940 - INFO : Tiempo de ejecución de la consulta derecho.sql: 0.19804930686950684 segundos para id municipio -> 27580
+2022-09-14 19:30:36,950 - INFO : Tiempo de escritura XTF: 0.2080686092376709 segundos para id municipio -> 27580
+2022-09-14 19:30:36,952 - INFO : Ejecutando consulta: tramite_catastral.sql para id municipio -> 27580
+2022-09-14 19:30:37,567 - INFO : Tiempo de ejecución de la consulta tramite_catastral.sql: 0.614539623260498 segundos para id municipio -> 27580
+2022-09-14 19:30:37,567 - INFO : Tiempo de escritura XTF: 0.615001916885376 segundos para id municipio -> 27580
+2022-09-14 19:30:37,568 - INFO : Escribiendo la relación RIC_CaracteristicasUnidadConstruccion...
+2022-09-14 19:30:37,569 - INFO : Escribiendo la relación col_ueBaunit...
+2022-09-14 19:30:37,570 - INFO : Escribiendo la relación col_rrrFuente...
+2022-09-14 19:30:37,572 - INFO : Escribiendo la relación ric_predio_tramitecatastral...
+2022-09-14 19:30:37,574 - INFO : Escribiendo la relación ric_predio_copropiedad...
+2022-09-14 19:30:37,577 - INFO : Escribiendo la relación col_miembros...
+2022-09-14 19:30:37,579 - INFO : Escribiendo la relación col_unidadfuente...
+2022-09-14 19:30:37,584 - INFO : Tiempo total de ejecución: 4.844020128250122 segundos para id municipio -> 27580
+2022-09-14 19:30:37,589 - INFO : Proceso de generación de reporte XTF para el id municipio -> 27580 finalizado
+2022-09-14 19:30:37,595 - INFO : Ruta local generada para el reporte XTF -> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27580_2022-09-14.xtf
+2022-09-14 19:30:37,679 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 19:30:37,920 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 19:30:37,923 - INFO : Authentication (password) successful!
+2022-09-14 19:30:38,224 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 19:30:38,263 - INFO : Directorio remoto para -> /FTP/XTF/export-files/27580/2022/ creado
+2022-09-14 19:30:38,430 - INFO : Fichero remoto -> /FTP/XTF/export-files/27580/2022//27580_2022-09-14.xtf cargado
+2022-09-14 19:30:38,432 - INFO : [chan 0] sftp session closed.
+2022-09-14 19:30:38,551 - INFO : Obteniendo reglas de validación de la información alfanumérica para id municipio -> 27580
+2022-09-14 19:30:38,625 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PERSONA_PREDIO_PROPIEDAD PPP         LEFT JOIN PERSONA_PREDIO PP     ON PPP.PERSONA_PREDIO_ID = PP.ID          LEFT JOIN PREDIO P              ON (PP.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU         ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE      ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.ID IS NULL         AND         P.MUNICIPIO_CODIGO = :municipio_codigo
+2022-09-14 19:30:38,687 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.0636446475982666 segundos para regla ->  Un registro de derecho tiene que estar relacionado a un registro en predio
+2022-09-14 19:30:38,688 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM FICHA_MATRIZ FM         LEFT JOIN PREDIO P ON (FM.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 19:30:38,737 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.04926133155822754 segundos para regla -> Un registro de datos PH condominio tiene que estar relacionado con un registro de predio
+2022-09-14 19:30:38,738 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PREDIO P         LEFT JOIN TRAMITE T ON T.PREDIO_ID = P.ID         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 19:30:38,799 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.06025528907775879 segundos para regla -> Un registro de predio puede estar relacionado con un registro de tramite catastral o puede estar relacionado con muchos registros de tramite catastral.
+2022-09-14 19:30:38,800 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND NOT REGEXP_LIKE(SUBSTR(p.numero_predial, 6, 2), '[0-9]')
+2022-09-14 19:30:38,869 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.0688328742980957 segundos para regla -> El predio no cuenta con un número predial numérico
+2022-09-14 19:30:38,870 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.tipo IN (' ', 'A', 'C', 'D', 'F', 'G', 'H', 'M', 'N', 'I', 'V')
+2022-09-14 19:30:38,923 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.0531163215637207 segundos para regla -> El predio no cuenta con un tipo homologable
+2022-09-14 19:30:38,925 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.nupre IN ( 	        SELECT nupre_repetido FROM ( 	            SELECT nupre AS nupre_repetido, count(nupre) AS contar_nupre FROM predio WHERE municipio_codigo = :municipio_codigo GROUP BY nupre 	        ) WHERE contar_nupre > 1 	    )
+2022-09-14 19:30:38,976 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05157470703125 segundos para regla -> El NUPRE del predio esta duplicado
+2022-09-14 19:30:38,978 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND (p.nupre IS NULL OR p.nupre = '')
+2022-09-14 19:30:39,034 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05685114860534668 segundos para regla -> El predio no cuenta un NUPRE
+2022-09-14 19:30:39,035 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND ( 	        p.avaluo_catastral IS NULL  	        OR  	        p.avaluo_catastral < 0 	    )
+2022-09-14 19:30:39,093 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.0576937198638916 segundos para regla -> El predio cuenta con un avaúo catastral negativo o no tiene
+2022-09-14 19:30:39,094 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  	p.id AS ID_PREDIO,  	p.numero_predial,  	(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 	(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 	:id_regla AS ID_REGLA, 	:regla AS REGLA  FROM PREDIO P WHERE  	P.MUNICIPIO_CODIGO = :municipio_codigo  	AND  	P.ID  NOT IN( 		SELECT   			P.ID 		FROM predio P 			INNER JOIN PERSONA_PREDIO PP ON PP.PREDIO_ID  = P.ID 			INNER JOIN PERSONA PE ON PP.PERSONA_ID = PE.ID 		WHERE  			P.MUNICIPIO_CODIGO = :municipio_codigo  			AND  			PE.TIPO_IDENTIFICACION IN ('CC', 'CE', 'NIT', 'TI', 'RC', 'P') 	)
+2022-09-14 19:30:39,189 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.09511542320251465 segundos para regla -> El propietario del predio no cuenta con un tipo de documento homologable
+2022-09-14 19:30:39,191 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.id NOT IN( 	        SELECT 	            P.ID 	        FROM PREDIO P 	            INNER JOIN PERSONA_PREDIO PP ON (P.MUNICIPIO_CODIGO = :municipio_codigo AND PP.PREDIO_ID = P.ID)  	            INNER JOIN PERSONA_PREDIO_PROPIEDAD PPP ON PPP.PERSONA_PREDIO_ID = PP.ID     	        GROUP BY 	            P.ID 	    )
+2022-09-14 19:30:40,508 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 1.317561149597168 segundos para regla -> El predio no cuenta con al menos un derecho asociado
+2022-09-14 19:30:40,511 - INFO : Descargando archivo remoto -> /FTP/XTF/export-files/27580/2022/27580_2022-09-14_Log_Errores.json
+2022-09-14 19:30:40,593 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 19:30:40,830 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 19:30:40,840 - INFO : Authentication (password) successful!
+2022-09-14 19:30:41,126 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 19:30:41,395 - INFO : [chan 0] sftp session closed.
+2022-09-14 19:30:41,422 - INFO : Inicio generación archivo excel con logs de errores para el id municipio -> 27580
+2022-09-14 19:30:43,390 - INFO : Tiempo de generaración de excel para id municipio -> 27580 -> 1.965766191482544 segundos
+2022-09-14 19:30:43,392 - INFO : Subiendo archivo remoto -> /FTP/XTF/export-files/27580/2022/ al servidor SFTP para id municipio -> 27580
+2022-09-14 19:30:43,457 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 19:30:43,697 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 19:30:43,702 - INFO : Authentication (password) successful!
+2022-09-14 19:30:43,972 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 19:30:44,017 - INFO : Directorio remoto para -> /FTP/XTF/export-files/27580/2022/ creado
+2022-09-14 19:30:44,170 - INFO : Fichero remoto -> /FTP/XTF/export-files/27580/2022//27580_2022-09-14.xlsx cargado
+2022-09-14 19:30:44,172 - INFO : [chan 0] sftp session closed.
+2022-09-14 19:30:44,311 - INFO : Generación del reporte para id municipio -> 27580 finalizada
+2022-09-14 19:36:12,917 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 19:36:13,848 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['19001']
+2022-09-14 19:36:13,849 - INFO : Creando conexion con servidor geográfico
+2022-09-14 19:36:13,925 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 19:36:14,395 - INFO : Ejecución insertada en la DB para id municipio -> 19001
+2022-09-14 19:36:14,396 - INFO : Enviando id municipio -> 19001 al servidor geográfico
+2022-09-14 19:36:14,398 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 19001
+2022-09-14 19:47:49,159 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 19001
+2022-09-14 19:47:49,160 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/19001/2022/19001_2022-09-14 generada
+2022-09-14 19:47:49,161 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\19001_2022-09-14
+2022-09-14 19:47:49,225 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 19:47:49,529 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 19:47:49,530 - INFO : Authentication (password) successful!
+2022-09-14 19:47:49,797 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 19:51:11,896 - INFO : [chan 0] sftp session closed.
+2022-09-14 19:51:24,858 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 12.95459532737732 segundos para id municipio -> 19001
+2022-09-14 19:51:36,140 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Construccion: 11.281168937683105 segundos para id municipio -> 19001
+2022-09-14 19:51:54,435 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Unidad: 18.2940616607666 segundos para id municipio -> 19001
+2022-09-14 19:51:54,572 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.13663172721862793 segundos19001
+2022-09-14 19:51:54,576 - INFO : Ejecutando consulta: predio.sql para id municipio -> 19001
+2022-09-14 19:52:14,612 - INFO : Tiempo de ejecución de la consulta predio.sql: 20.036011934280396 segundos para id municipio -> 19001
+2022-09-14 19:52:15,114 - INFO : Tiempo de escritura XTF: 20.538334369659424 segundos para id municipio -> 19001
+2022-09-14 19:52:15,115 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 19001
+2022-09-14 19:54:41,652 - INFO : Tiempo de ejecución de la consulta terreno.sql: 146.53712010383606 segundos para id municipio -> 19001
+2022-09-14 19:54:41,854 - INFO : Tiempo de escritura XTF: 146.7393262386322 segundos para id municipio -> 19001
+2022-09-14 19:54:41,856 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 19001
+2022-09-14 19:56:35,064 - INFO : Tiempo de ejecución de la consulta construccion.sql: 113.20810866355896 segundos para id municipio -> 19001
+2022-09-14 19:56:35,378 - INFO : Tiempo de escritura XTF: 113.52142667770386 segundos para id municipio -> 19001
+2022-09-14 19:56:35,379 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 19001
+2022-09-14 19:58:22,135 - INFO : Tiempo total de ejecución: 430.2313618659973 segundos para id municipio -> 19001
+2022-09-14 20:08:45,148 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 20:08:45,959 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27580']
+2022-09-14 20:08:45,961 - INFO : Creando conexion con servidor geográfico
+2022-09-14 20:08:46,022 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 20:08:46,481 - INFO : Ejecución insertada en la DB para id municipio -> 27580
+2022-09-14 20:08:46,483 - INFO : Enviando id municipio -> 27580 al servidor geográfico
+2022-09-14 20:08:46,485 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27580
+2022-09-14 20:11:11,378 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno"]} para id municipio-> 27580
+2022-09-14 20:11:11,381 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/27580/2022/27580_2022-09-14 generada
+2022-09-14 20:11:11,382 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27580_2022-09-14
+2022-09-14 20:11:11,481 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:11:11,864 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:11:11,870 - INFO : Authentication (password) successful!
+2022-09-14 20:11:12,153 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:11:13,058 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:11:13,133 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 0.07180476188659668 segundos para id municipio -> 27580
+2022-09-14 20:11:13,137 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.0029938220977783203 segundos27580
+2022-09-14 20:11:13,142 - INFO : Ejecutando consulta: predio.sql para id municipio -> 27580
+2022-09-14 20:11:14,952 - INFO : Tiempo de ejecución de la consulta predio.sql: 1.8084943294525146 segundos para id municipio -> 27580
+2022-09-14 20:11:14,963 - INFO : Tiempo de escritura XTF: 1.82020902633667 segundos para id municipio -> 27580
+2022-09-14 20:11:14,965 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 27580
+2022-09-14 20:11:15,160 - INFO : Tiempo de ejecución de la consulta terreno.sql: 0.19594836235046387 segundos para id municipio -> 27580
+2022-09-14 20:11:15,167 - INFO : Tiempo de escritura XTF: 0.20294857025146484 segundos para id municipio -> 27580
+2022-09-14 20:11:15,169 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 27580
+2022-09-14 20:11:15,420 - INFO : Tiempo de ejecución de la consulta construccion.sql: 0.2502880096435547 segundos para id municipio -> 27580
+2022-09-14 20:11:15,421 - INFO : Tiempo de escritura XTF: 0.25189661979675293 segundos para id municipio -> 27580
+2022-09-14 20:11:15,423 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 27580
+2022-09-14 20:11:15,669 - INFO : Tiempo de ejecución de la consulta caracteristica_unidad_construccion.sql: 0.24549555778503418 segundos para id municipio -> 27580
+2022-09-14 20:11:15,670 - INFO : Tiempo de escritura XTF: 0.24653363227844238 segundos para id municipio -> 27580
+2022-09-14 20:11:15,672 - INFO : Ejecutando consulta: unidad_construccion.sql para id municipio -> 27580
+2022-09-14 20:11:15,942 - INFO : Tiempo de ejecución de la consulta unidad_construccion.sql: 0.26987481117248535 segundos para id municipio -> 27580
+2022-09-14 20:11:15,943 - INFO : Tiempo de escritura XTF: 0.27086758613586426 segundos para id municipio -> 27580
+2022-09-14 20:11:15,945 - INFO : Ejecutando consulta: interesado.sql para id municipio -> 27580
+2022-09-14 20:11:16,141 - INFO : Tiempo de ejecución de la consulta interesado.sql: 0.1962587833404541 segundos para id municipio -> 27580
+2022-09-14 20:11:16,148 - INFO : Tiempo de escritura XTF: 0.20324325561523438 segundos para id municipio -> 27580
+2022-09-14 20:11:16,149 - INFO : Ejecutando consulta: datos_ph_condominio.sql para id municipio -> 27580
+2022-09-14 20:11:16,382 - INFO : Tiempo de ejecución de la consulta datos_ph_condominio.sql: 0.23294830322265625 segundos para id municipio -> 27580
+2022-09-14 20:11:16,384 - INFO : Tiempo de escritura XTF: 0.2348015308380127 segundos para id municipio -> 27580
+2022-09-14 20:11:16,386 - INFO : Ejecutando consulta: fuente_administrativa.sql para id municipio -> 27580
+2022-09-14 20:11:16,576 - INFO : Tiempo de ejecución de la consulta fuente_administrativa.sql: 0.19145464897155762 segundos para id municipio -> 27580
+2022-09-14 20:11:16,582 - INFO : Tiempo de escritura XTF: 0.19755268096923828 segundos para id municipio -> 27580
+2022-09-14 20:11:16,584 - INFO : Ejecutando consulta: agrupacion_interesados.sql para id municipio -> 27580
+2022-09-14 20:11:16,816 - INFO : Tiempo de ejecución de la consulta agrupacion_interesados.sql: 0.23178505897521973 segundos para id municipio -> 27580
+2022-09-14 20:11:16,817 - INFO : Tiempo de escritura XTF: 0.23283123970031738 segundos para id municipio -> 27580
+2022-09-14 20:11:16,819 - INFO : Ejecutando consulta: derecho.sql para id municipio -> 27580
+2022-09-14 20:11:17,019 - INFO : Tiempo de ejecución de la consulta derecho.sql: 0.199660062789917 segundos para id municipio -> 27580
+2022-09-14 20:11:17,026 - INFO : Tiempo de escritura XTF: 0.20734500885009766 segundos para id municipio -> 27580
+2022-09-14 20:11:17,028 - INFO : Ejecutando consulta: tramite_catastral.sql para id municipio -> 27580
+2022-09-14 20:11:17,625 - INFO : Tiempo de ejecución de la consulta tramite_catastral.sql: 0.597872257232666 segundos para id municipio -> 27580
+2022-09-14 20:11:17,627 - INFO : Tiempo de escritura XTF: 0.598872184753418 segundos para id municipio -> 27580
+2022-09-14 20:11:17,628 - INFO : Escribiendo la relación RIC_CaracteristicasUnidadConstruccion...
+2022-09-14 20:11:17,630 - INFO : Escribiendo la relación col_ueBaunit...
+2022-09-14 20:11:17,632 - INFO : Escribiendo la relación col_rrrFuente...
+2022-09-14 20:11:17,635 - INFO : Escribiendo la relación ric_predio_tramitecatastral...
+2022-09-14 20:11:17,637 - INFO : Escribiendo la relación ric_predio_copropiedad...
+2022-09-14 20:11:17,639 - INFO : Escribiendo la relación col_miembros...
+2022-09-14 20:11:17,641 - INFO : Escribiendo la relación col_unidadfuente...
+2022-09-14 20:11:17,645 - INFO : Tiempo total de ejecución: 4.583377122879028 segundos para id municipio -> 27580
+2022-09-14 20:11:17,649 - INFO : Proceso de generación de reporte XTF para el id municipio -> 27580 finalizado
+2022-09-14 20:11:17,655 - INFO : Ruta local generada para el reporte XTF -> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27580_2022-09-14.xtf
+2022-09-14 20:11:17,721 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:11:17,941 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:11:17,945 - INFO : Authentication (password) successful!
+2022-09-14 20:11:18,232 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:11:18,254 - INFO : Directorio remoto para -> /FTP/XTF/export-files/27580/2022/ creado
+2022-09-14 20:11:18,432 - INFO : Fichero remoto -> /FTP/XTF/export-files/27580/2022//27580_2022-09-14.xtf cargado
+2022-09-14 20:11:18,434 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:11:18,552 - INFO : Obteniendo reglas de validación de la información alfanumérica para id municipio -> 27580
+2022-09-14 20:11:18,615 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PERSONA_PREDIO_PROPIEDAD PPP         LEFT JOIN PERSONA_PREDIO PP     ON PPP.PERSONA_PREDIO_ID = PP.ID          LEFT JOIN PREDIO P              ON (PP.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU         ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE      ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.ID IS NULL         AND         P.MUNICIPIO_CODIGO = :municipio_codigo
+2022-09-14 20:11:18,672 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05684518814086914 segundos para regla ->  Un registro de derecho tiene que estar relacionado a un registro en predio
+2022-09-14 20:11:18,674 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM FICHA_MATRIZ FM         LEFT JOIN PREDIO P ON (FM.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 20:11:18,750 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.07602572441101074 segundos para regla -> Un registro de datos PH condominio tiene que estar relacionado con un registro de predio
+2022-09-14 20:11:18,752 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PREDIO P         LEFT JOIN TRAMITE T ON T.PREDIO_ID = P.ID         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 20:11:18,808 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05593538284301758 segundos para regla -> Un registro de predio puede estar relacionado con un registro de tramite catastral o puede estar relacionado con muchos registros de tramite catastral.
+2022-09-14 20:11:18,810 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND NOT REGEXP_LIKE(SUBSTR(p.numero_predial, 6, 2), '[0-9]')
+2022-09-14 20:11:18,862 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05120229721069336 segundos para regla -> El predio no cuenta con un número predial numérico
+2022-09-14 20:11:18,863 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.tipo IN (' ', 'A', 'C', 'D', 'F', 'G', 'H', 'M', 'N', 'I', 'V')
+2022-09-14 20:11:18,911 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.04850602149963379 segundos para regla -> El predio no cuenta con un tipo homologable
+2022-09-14 20:11:18,912 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.nupre IN ( 	        SELECT nupre_repetido FROM ( 	            SELECT nupre AS nupre_repetido, count(nupre) AS contar_nupre FROM predio WHERE municipio_codigo = :municipio_codigo GROUP BY nupre 	        ) WHERE contar_nupre > 1 	    )
+2022-09-14 20:11:18,969 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05719256401062012 segundos para regla -> El NUPRE del predio esta duplicado
+2022-09-14 20:11:18,970 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND (p.nupre IS NULL OR p.nupre = '')
+2022-09-14 20:11:19,027 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05684852600097656 segundos para regla -> El predio no cuenta un NUPRE
+2022-09-14 20:11:19,028 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND ( 	        p.avaluo_catastral IS NULL  	        OR  	        p.avaluo_catastral < 0 	    )
+2022-09-14 20:11:19,081 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05251169204711914 segundos para regla -> El predio cuenta con un avaúo catastral negativo o no tiene
+2022-09-14 20:11:19,082 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  	p.id AS ID_PREDIO,  	p.numero_predial,  	(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 	(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 	:id_regla AS ID_REGLA, 	:regla AS REGLA  FROM PREDIO P WHERE  	P.MUNICIPIO_CODIGO = :municipio_codigo  	AND  	P.ID  NOT IN( 		SELECT   			P.ID 		FROM predio P 			INNER JOIN PERSONA_PREDIO PP ON PP.PREDIO_ID  = P.ID 			INNER JOIN PERSONA PE ON PP.PERSONA_ID = PE.ID 		WHERE  			P.MUNICIPIO_CODIGO = :municipio_codigo  			AND  			PE.TIPO_IDENTIFICACION IN ('CC', 'CE', 'NIT', 'TI', 'RC', 'P') 	)
+2022-09-14 20:11:19,139 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 0.05714297294616699 segundos para regla -> El propietario del predio no cuenta con un tipo de documento homologable
+2022-09-14 20:11:19,141 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 27580 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.id NOT IN( 	        SELECT 	            P.ID 	        FROM PREDIO P 	            INNER JOIN PERSONA_PREDIO PP ON (P.MUNICIPIO_CODIGO = :municipio_codigo AND PP.PREDIO_ID = P.ID)  	            INNER JOIN PERSONA_PREDIO_PROPIEDAD PPP ON PPP.PERSONA_PREDIO_ID = PP.ID     	        GROUP BY 	            P.ID 	    )
+2022-09-14 20:11:20,377 - INFO : Id municipio -> 27580Tiempo ejecución consulta -> 1.2358121871948242 segundos para regla -> El predio no cuenta con al menos un derecho asociado
+2022-09-14 20:11:20,380 - INFO : Descargando archivo remoto -> /FTP/XTF/export-files/27580/2022/27580_2022-09-14_Log_Errores.json
+2022-09-14 20:11:20,456 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:11:20,693 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:11:20,699 - INFO : Authentication (password) successful!
+2022-09-14 20:11:20,982 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:11:21,185 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:11:21,211 - INFO : Inicio generación archivo excel con logs de errores para el id municipio -> 27580
+2022-09-14 20:11:23,490 - INFO : Tiempo de generaración de excel para id municipio -> 27580 -> 2.277756452560425 segundos
+2022-09-14 20:11:23,491 - INFO : Subiendo archivo remoto -> /FTP/XTF/export-files/27580/2022/ al servidor SFTP para id municipio -> 27580
+2022-09-14 20:11:23,553 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:11:23,750 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:11:23,756 - INFO : Authentication (password) successful!
+2022-09-14 20:11:24,048 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:11:24,082 - INFO : Directorio remoto para -> /FTP/XTF/export-files/27580/2022/ creado
+2022-09-14 20:11:24,527 - INFO : Fichero remoto -> /FTP/XTF/export-files/27580/2022//27580_2022-09-14.xlsx cargado
+2022-09-14 20:11:24,530 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:11:24,675 - INFO : Generación del reporte para id municipio -> 27580 finalizada
+2022-09-14 20:13:37,736 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 20:13:38,437 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['25175']
+2022-09-14 20:13:38,438 - INFO : Creando conexion con servidor geográfico
+2022-09-14 20:13:38,524 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 20:13:38,913 - INFO : Ejecución insertada en la DB para id municipio -> 25175
+2022-09-14 20:13:38,915 - INFO : Enviando id municipio -> 25175 al servidor geográfico
+2022-09-14 20:13:38,917 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 25175
+2022-09-14 20:19:08,441 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 25175
+2022-09-14 20:19:08,446 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/25175/2022/25175_2022-09-14 generada
+2022-09-14 20:19:08,448 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\25175_2022-09-14
+2022-09-14 20:19:08,517 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:19:08,848 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:19:08,852 - INFO : Authentication (password) successful!
+2022-09-14 20:19:09,128 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:19:40,083 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:22:30,386 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 20:22:31,227 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['25473']
+2022-09-14 20:22:31,229 - INFO : Creando conexion con servidor geográfico
+2022-09-14 20:22:31,299 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 20:22:31,720 - INFO : Ejecución insertada en la DB para id municipio -> 25473
+2022-09-14 20:22:31,722 - INFO : Enviando id municipio -> 25473 al servidor geográfico
+2022-09-14 20:22:31,723 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 25473
+2022-09-14 20:26:56,327 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 25473
+2022-09-14 20:26:56,331 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/25473/2022/25473_2022-09-14 generada
+2022-09-14 20:26:56,332 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\25473_2022-09-14
+2022-09-14 20:26:56,415 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:26:56,751 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:26:56,756 - INFO : Authentication (password) successful!
+2022-09-14 20:26:57,074 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:28:55,942 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:28:59,159 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 3.211972713470459 segundos para id municipio -> 25473
+2022-09-14 20:29:03,661 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Construccion: 4.500060796737671 segundos para id municipio -> 25473
+2022-09-14 20:29:13,971 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Unidad: 10.308927297592163 segundos para id municipio -> 25473
+2022-09-14 20:29:14,230 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.2568693161010742 segundos25473
+2022-09-14 20:29:14,233 - INFO : Ejecutando consulta: predio.sql para id municipio -> 25473
+2022-09-14 20:29:31,498 - INFO : Tiempo de ejecución de la consulta predio.sql: 17.265054941177368 segundos para id municipio -> 25473
+2022-09-14 20:29:31,979 - INFO : Tiempo de escritura XTF: 17.74653720855713 segundos para id municipio -> 25473
+2022-09-14 20:29:31,980 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 25473
+2022-09-14 20:30:23,430 - INFO : Tiempo de ejecución de la consulta terreno.sql: 51.448450326919556 segundos para id municipio -> 25473
+2022-09-14 20:30:23,666 - INFO : Tiempo de escritura XTF: 51.68537735939026 segundos para id municipio -> 25473
+2022-09-14 20:30:23,667 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 25473
+2022-09-14 20:31:08,901 - INFO : Tiempo de ejecución de la consulta construccion.sql: 45.23459243774414 segundos para id municipio -> 25473
+2022-09-14 20:31:09,111 - INFO : Tiempo de escritura XTF: 45.44433331489563 segundos para id municipio -> 25473
+2022-09-14 20:31:09,112 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 25473
+2022-09-14 20:31:55,263 - INFO : Tiempo de ejecución de la consulta caracteristica_unidad_construccion.sql: 46.150853872299194 segundos para id municipio -> 25473
+2022-09-14 20:31:56,892 - INFO : Tiempo de escritura XTF: 47.78021264076233 segundos para id municipio -> 25473
+2022-09-14 20:31:56,893 - INFO : Ejecutando consulta: unidad_construccion.sql para id municipio -> 25473
+2022-09-14 20:32:40,384 - INFO : Tiempo de ejecución de la consulta unidad_construccion.sql: 43.491758823394775 segundos para id municipio -> 25473
+2022-09-14 20:32:40,588 - INFO : Tiempo de escritura XTF: 43.69531273841858 segundos para id municipio -> 25473
+2022-09-14 20:32:40,589 - INFO : Ejecutando consulta: interesado.sql para id municipio -> 25473
+2022-09-14 20:33:28,843 - INFO : Tiempo de ejecución de la consulta interesado.sql: 48.2541069984436 segundos para id municipio -> 25473
+2022-09-14 20:33:28,999 - INFO : Tiempo de escritura XTF: 48.41028952598572 segundos para id municipio -> 25473
+2022-09-14 20:33:29,001 - INFO : Ejecutando consulta: datos_ph_condominio.sql para id municipio -> 25473
+2022-09-14 20:33:31,819 - INFO : Tiempo de ejecución de la consulta datos_ph_condominio.sql: 2.817511558532715 segundos para id municipio -> 25473
+2022-09-14 20:33:31,821 - INFO : Tiempo de escritura XTF: 2.818511724472046 segundos para id municipio -> 25473
+2022-09-14 20:33:31,822 - INFO : Ejecutando consulta: fuente_administrativa.sql para id municipio -> 25473
+2022-09-14 20:34:23,461 - INFO : Tiempo de ejecución de la consulta fuente_administrativa.sql: 51.6395206451416 segundos para id municipio -> 25473
+2022-09-14 20:34:23,733 - INFO : Tiempo de escritura XTF: 51.91101026535034 segundos para id municipio -> 25473
+2022-09-14 20:34:23,735 - INFO : Ejecutando consulta: agrupacion_interesados.sql para id municipio -> 25473
+2022-09-14 20:35:48,544 - INFO : Tiempo de ejecución de la consulta agrupacion_interesados.sql: 84.80985474586487 segundos para id municipio -> 25473
+2022-09-14 20:35:48,586 - INFO : Tiempo de escritura XTF: 84.85196256637573 segundos para id municipio -> 25473
+2022-09-14 20:35:48,588 - INFO : Ejecutando consulta: derecho.sql para id municipio -> 25473
+2022-09-14 20:36:40,034 - INFO : Tiempo de ejecución de la consulta derecho.sql: 51.44628620147705 segundos para id municipio -> 25473
+2022-09-14 20:36:40,374 - INFO : Tiempo de escritura XTF: 51.786232471466064 segundos para id municipio -> 25473
+2022-09-14 20:36:40,375 - INFO : Ejecutando consulta: tramite_catastral.sql para id municipio -> 25473
+2022-09-14 20:36:48,271 - INFO : Tiempo de ejecución de la consulta tramite_catastral.sql: 7.896124362945557 segundos para id municipio -> 25473
+2022-09-14 20:36:48,273 - INFO : Tiempo de escritura XTF: 7.897154808044434 segundos para id municipio -> 25473
+2022-09-14 20:36:48,274 - INFO : Escribiendo la relación RIC_CaracteristicasUnidadConstruccion...
+2022-09-14 20:36:48,330 - INFO : Escribiendo la relación col_ueBaunit...
+2022-09-14 20:36:48,343 - INFO : Escribiendo la relación col_rrrFuente...
+2022-09-14 20:36:48,416 - INFO : Escribiendo la relación ric_predio_tramitecatastral...
+2022-09-14 20:36:48,419 - INFO : Escribiendo la relación ric_predio_copropiedad...
+2022-09-14 20:36:48,423 - INFO : Escribiendo la relación col_miembros...
+2022-09-14 20:36:48,433 - INFO : Escribiendo la relación col_unidadfuente...
+2022-09-14 20:36:48,515 - INFO : Tiempo total de ejecución: 472.5674674510956 segundos para id municipio -> 25473
+2022-09-14 20:36:49,155 - INFO : Proceso de generación de reporte XTF para el id municipio -> 25473 finalizado
+2022-09-14 20:36:49,195 - INFO : Ruta local generada para el reporte XTF -> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\25473_2022-09-14.xtf
+2022-09-14 20:36:49,268 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:36:49,575 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:36:49,579 - INFO : Authentication (password) successful!
+2022-09-14 20:36:49,886 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:36:49,923 - INFO : Directorio remoto para -> /FTP/XTF/export-files/25473/2022/ creado
+2022-09-14 20:36:52,237 - INFO : Fichero remoto -> /FTP/XTF/export-files/25473/2022//25473_2022-09-14.xtf cargado
+2022-09-14 20:36:52,238 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:36:52,385 - INFO : Obteniendo reglas de validación de la información alfanumérica para id municipio -> 25473
+2022-09-14 20:36:52,452 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PERSONA_PREDIO_PROPIEDAD PPP         LEFT JOIN PERSONA_PREDIO PP     ON PPP.PERSONA_PREDIO_ID = PP.ID          LEFT JOIN PREDIO P              ON (PP.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU         ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE      ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.ID IS NULL         AND         P.MUNICIPIO_CODIGO = :municipio_codigo
+2022-09-14 20:36:52,524 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.07180976867675781 segundos para regla ->  Un registro de derecho tiene que estar relacionado a un registro en predio
+2022-09-14 20:36:52,526 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM FICHA_MATRIZ FM         LEFT JOIN PREDIO P ON (FM.PREDIO_ID = P.ID)         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 20:36:52,585 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.05944108963012695 segundos para regla -> Un registro de datos PH condominio tiene que estar relacionado con un registro de predio
+2022-09-14 20:36:52,588 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT     DISTINCT         P.ID AS ID_PREDIO,         P.NUMERO_PREDIAL,         MU.NOMBRE AS MUNICIPIO,         DE.NOMBRE  AS DEPARTAMENTO,         :id_regla AS ID_REGLA,         :regla AS REGLA     FROM PREDIO P         LEFT JOIN TRAMITE T ON T.PREDIO_ID = P.ID         INNER JOIN MUNICIPIO MU ON P.MUNICIPIO_CODIGO = MU.CODIGO          INNER JOIN DEPARTAMENTO DE ON P.DEPARTAMENTO_CODIGO = DE.CODIGO      WHERE         P.MUNICIPIO_CODIGO = :municipio_codigo         AND         P.ID IS NULL
+2022-09-14 20:36:52,650 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.06230449676513672 segundos para regla -> Un registro de predio puede estar relacionado con un registro de tramite catastral o puede estar relacionado con muchos registros de tramite catastral.
+2022-09-14 20:36:52,652 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND NOT REGEXP_LIKE(SUBSTR(p.numero_predial, 6, 2), '[0-9]')
+2022-09-14 20:36:52,744 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.09200143814086914 segundos para regla -> El predio no cuenta con un número predial numérico
+2022-09-14 20:36:52,745 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.tipo IN (' ', 'A', 'C', 'D', 'F', 'G', 'H', 'M', 'N', 'I', 'V')
+2022-09-14 20:36:52,886 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.14078569412231445 segundos para regla -> El predio no cuenta con un tipo homologable
+2022-09-14 20:36:52,888 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.nupre IN ( 	        SELECT nupre_repetido FROM ( 	            SELECT nupre AS nupre_repetido, count(nupre) AS contar_nupre FROM predio WHERE municipio_codigo = :municipio_codigo GROUP BY nupre 	        ) WHERE contar_nupre > 1 	    )
+2022-09-14 20:36:53,026 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.13785719871520996 segundos para regla -> El NUPRE del predio esta duplicado
+2022-09-14 20:36:53,028 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND (p.nupre IS NULL OR p.nupre = '')
+2022-09-14 20:36:53,135 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.10748767852783203 segundos para regla -> El predio no cuenta un NUPRE
+2022-09-14 20:36:53,137 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND ( 	        p.avaluo_catastral IS NULL  	        OR  	        p.avaluo_catastral < 0 	    )
+2022-09-14 20:36:53,225 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 0.0877993106842041 segundos para regla -> El predio cuenta con un avaúo catastral negativo o no tiene
+2022-09-14 20:36:53,226 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  	p.id AS ID_PREDIO,  	p.numero_predial,  	(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 	(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 	:id_regla AS ID_REGLA, 	:regla AS REGLA  FROM PREDIO P WHERE  	P.MUNICIPIO_CODIGO = :municipio_codigo  	AND  	P.ID  NOT IN( 		SELECT   			P.ID 		FROM predio P 			INNER JOIN PERSONA_PREDIO PP ON PP.PREDIO_ID  = P.ID 			INNER JOIN PERSONA PE ON PP.PERSONA_ID = PE.ID 		WHERE  			P.MUNICIPIO_CODIGO = :municipio_codigo  			AND  			PE.TIPO_IDENTIFICACION IN ('CC', 'CE', 'NIT', 'TI', 'RC', 'P') 	)
+2022-09-14 20:37:15,099 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 21.87404489517212 segundos para regla -> El propietario del predio no cuenta con un tipo de documento homologable
+2022-09-14 20:37:15,100 - INFO : Ejecutando consulta para generar log de errores para id municipio -> 25473 ->
+SELECT  		p.id AS ID_PREDIO,  		p.numero_predial,  		(SELECT m.nombre FROM MUNICIPIO m WHERE m.codigo = p.MUNICIPIO_CODIGO) AS MUNICIPIO, 		(SELECT d.nombre FROM DEPARTAMENTO d WHERE d.codigo = p.DEPARTAMENTO_CODIGO) AS DEPARTAMENTO, 		:id_regla AS ID_REGLA, 		:regla AS REGLA  	FROM predio p 	WHERE P.MUNICIPIO_CODIGO = :municipio_codigo AND p.id NOT IN( 	        SELECT 	            P.ID 	        FROM PREDIO P 	            INNER JOIN PERSONA_PREDIO PP ON (P.MUNICIPIO_CODIGO = :municipio_codigo AND PP.PREDIO_ID = P.ID)  	            INNER JOIN PERSONA_PREDIO_PROPIEDAD PPP ON PPP.PERSONA_PREDIO_ID = PP.ID     	        GROUP BY 	            P.ID 	    )
+2022-09-14 20:37:27,936 - INFO : Id municipio -> 25473Tiempo ejecución consulta -> 12.834237813949585 segundos para regla -> El predio no cuenta con al menos un derecho asociado
+2022-09-14 20:37:27,937 - INFO : Descargando archivo remoto -> /FTP/XTF/export-files/25473/2022/25473_2022-09-14_Log_Errores.json
+2022-09-14 20:37:28,018 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:37:28,237 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:37:28,239 - INFO : Authentication (password) successful!
+2022-09-14 20:37:28,523 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:37:28,896 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:37:28,965 - INFO : Inicio generación archivo excel con logs de errores para el id municipio -> 25473
+2022-09-14 20:37:32,095 - INFO : Tiempo de generaración de excel para id municipio -> 25473 -> 3.126924991607666 segundos
+2022-09-14 20:37:32,095 - INFO : Subiendo archivo remoto -> /FTP/XTF/export-files/25473/2022/ al servidor SFTP para id municipio -> 25473
+2022-09-14 20:37:32,155 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:37:32,355 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:37:32,358 - INFO : Authentication (password) successful!
+2022-09-14 20:37:32,655 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:37:32,683 - INFO : Directorio remoto para -> /FTP/XTF/export-files/25473/2022/ creado
+2022-09-14 20:37:32,972 - INFO : Fichero remoto -> /FTP/XTF/export-files/25473/2022//25473_2022-09-14.xlsx cargado
+2022-09-14 20:37:32,974 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:37:33,118 - INFO : Generación del reporte para id municipio -> 25473 finalizada
+2022-09-14 20:42:05,540 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 20:42:06,290 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['27001']
+2022-09-14 20:42:06,291 - INFO : Creando conexion con servidor geográfico
+2022-09-14 20:42:06,363 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 20:42:06,846 - INFO : Ejecución insertada en la DB para id municipio -> 27001
+2022-09-14 20:42:06,851 - INFO : Enviando id municipio -> 27001 al servidor geográfico
+2022-09-14 20:42:06,854 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 27001
+2022-09-14 20:45:38,607 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 27001
+2022-09-14 20:45:38,610 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/27001/2022/27001_2022-09-14 generada
+2022-09-14 20:45:38,611 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\27001_2022-09-14
+2022-09-14 20:45:38,728 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:45:39,057 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:45:39,060 - INFO : Authentication (password) successful!
+2022-09-14 20:45:39,350 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:45:59,236 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:46:00,851 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 1.614431619644165 segundos para id municipio -> 27001
+2022-09-14 20:46:02,948 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Construccion: 2.095998525619507 segundos para id municipio -> 27001
+2022-09-14 20:46:03,161 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Unidad: 0.21146917343139648 segundos para id municipio -> 27001
+2022-09-14 20:46:03,210 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.04760932922363281 segundos27001
+2022-09-14 20:46:03,211 - INFO : Ejecutando consulta: predio.sql para id municipio -> 27001
+2022-09-14 20:46:29,997 - INFO : Tiempo de ejecución de la consulta predio.sql: 26.786582469940186 segundos para id municipio -> 27001
+2022-09-14 20:46:30,557 - INFO : Tiempo de escritura XTF: 27.346685886383057 segundos para id municipio -> 27001
+2022-09-14 20:46:30,558 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 27001
+2022-09-14 20:47:07,619 - INFO : Tiempo de ejecución de la consulta terreno.sql: 37.06042742729187 segundos para id municipio -> 27001
+2022-09-14 20:47:07,872 - INFO : Tiempo de escritura XTF: 37.31357002258301 segundos para id municipio -> 27001
+2022-09-14 20:47:07,872 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 27001
+2022-09-14 20:47:43,132 - INFO : Tiempo de ejecución de la consulta construccion.sql: 35.259087800979614 segundos para id municipio -> 27001
+2022-09-14 20:47:43,890 - INFO : Tiempo de escritura XTF: 36.01863503456116 segundos para id municipio -> 27001
+2022-09-14 20:47:43,893 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 27001
+2022-09-14 20:48:16,366 - INFO : Tiempo total de ejecución: 137.1288034915924 segundos para id municipio -> 27001
+2022-09-14 20:48:24,362 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 20:48:25,198 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['25286']
+2022-09-14 20:48:25,200 - INFO : Creando conexion con servidor geográfico
+2022-09-14 20:48:25,313 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 20:48:25,763 - INFO : Ejecución insertada en la DB para id municipio -> 25286
+2022-09-14 20:48:25,763 - INFO : Enviando id municipio -> 25286 al servidor geográfico
+2022-09-14 20:48:25,764 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 25286
+2022-09-14 20:51:58,577 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 25286
+2022-09-14 20:51:58,580 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/25286/2022/25286_2022-09-14 generada
+2022-09-14 20:51:58,582 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\25286_2022-09-14
+2022-09-14 20:51:58,803 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 20:51:59,234 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 20:51:59,238 - INFO : Authentication (password) successful!
+2022-09-14 20:51:59,528 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 20:52:45,504 - INFO : [chan 0] sftp session closed.
+2022-09-14 20:52:46,821 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 1.306612491607666 segundos para id municipio -> 25286
+2022-09-14 20:52:49,736 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Construccion: 2.914851665496826 segundos para id municipio -> 25286
+2022-09-14 20:52:55,061 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Unidad: 5.323497533798218 segundos para id municipio -> 25286
+2022-09-14 20:52:55,225 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.16249823570251465 segundos25286
+2022-09-14 20:52:55,229 - INFO : Ejecutando consulta: predio.sql para id municipio -> 25286
+2022-09-14 20:53:08,670 - INFO : Tiempo de ejecución de la consulta predio.sql: 13.440555095672607 segundos para id municipio -> 25286
+2022-09-14 20:53:09,327 - INFO : Tiempo de escritura XTF: 14.097670316696167 segundos para id municipio -> 25286
+2022-09-14 20:53:09,328 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 25286
+2022-09-14 20:53:36,954 - INFO : Tiempo de ejecución de la consulta terreno.sql: 27.62609553337097 segundos para id municipio -> 25286
+2022-09-14 20:53:37,167 - INFO : Tiempo de escritura XTF: 27.83966636657715 segundos para id municipio -> 25286
+2022-09-14 20:53:37,168 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 25286
+2022-09-14 20:54:03,282 - INFO : Tiempo de ejecución de la consulta construccion.sql: 26.113589763641357 segundos para id municipio -> 25286
+2022-09-14 20:54:03,531 - INFO : Tiempo de escritura XTF: 26.36204957962036 segundos para id municipio -> 25286
+2022-09-14 20:54:03,532 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 25286
+2022-09-14 20:54:27,085 - INFO : Tiempo total de ejecución: 101.56992745399475 segundos para id municipio -> 25286
+2022-09-14 20:57:15,424 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 20:57:16,006 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['99773']
+2022-09-14 20:57:16,007 - INFO : Creando conexion con servidor geográfico
+2022-09-14 20:57:16,104 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 20:57:16,628 - INFO : Ejecución insertada en la DB para id municipio -> 99773
+2022-09-14 20:57:16,630 - INFO : Enviando id municipio -> 99773 al servidor geográfico
+2022-09-14 20:57:16,632 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 99773
+2022-09-14 21:01:45,911 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 99773
+2022-09-14 21:01:45,914 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/99773/2022/99773_2022-09-14 generada
+2022-09-14 21:01:45,916 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\99773_2022-09-14
+2022-09-14 21:01:46,028 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 21:01:46,442 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 21:01:46,448 - INFO : Authentication (password) successful!
+2022-09-14 21:01:46,736 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 21:02:12,193 - INFO : [chan 0] sftp session closed.
+2022-09-14 21:02:18,775 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 6.575083017349243 segundos para id municipio -> 99773
+2022-09-14 21:02:20,206 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Construccion: 1.43068265914917 segundos para id municipio -> 99773
+2022-09-14 21:02:21,429 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Unidad: 1.221503496170044 segundos para id municipio -> 99773
+2022-09-14 21:02:21,462 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.030988693237304688 segundos99773
+2022-09-14 21:02:21,468 - INFO : Ejecutando consulta: predio.sql para id municipio -> 99773
+2022-09-14 21:02:31,916 - INFO : Tiempo de ejecución de la consulta predio.sql: 10.448647022247314 segundos para id municipio -> 99773
+2022-09-14 21:02:32,384 - INFO : Tiempo de escritura XTF: 10.916476011276245 segundos para id municipio -> 99773
+2022-09-14 21:02:32,385 - INFO : Ejecutando consulta: terreno.sql para id municipio -> 99773
+2022-09-14 21:02:41,077 - INFO : Tiempo de ejecución de la consulta terreno.sql: 8.691595554351807 segundos para id municipio -> 99773
+2022-09-14 21:02:47,356 - INFO : Tiempo de escritura XTF: 14.970353603363037 segundos para id municipio -> 99773
+2022-09-14 21:02:47,357 - INFO : Ejecutando consulta: construccion.sql para id municipio -> 99773
+2022-09-14 21:02:54,169 - INFO : Tiempo de ejecución de la consulta construccion.sql: 6.812759876251221 segundos para id municipio -> 99773
+2022-09-14 21:02:54,877 - INFO : Tiempo de escritura XTF: 7.520450830459595 segundos para id municipio -> 99773
+2022-09-14 21:02:54,882 - INFO : Ejecutando consulta: caracteristica_unidad_construccion.sql para id municipio -> 99773
+2022-09-14 21:03:02,139 - INFO : Tiempo de ejecución de la consulta caracteristica_unidad_construccion.sql: 7.256906986236572 segundos para id municipio -> 99773
+2022-09-14 21:03:02,268 - INFO : Tiempo de escritura XTF: 7.38663911819458 segundos para id municipio -> 99773
+2022-09-14 21:03:02,269 - INFO : Ejecutando consulta: unidad_construccion.sql para id municipio -> 99773
+2022-09-14 21:03:08,638 - INFO : Tiempo de ejecución de la consulta unidad_construccion.sql: 6.368929386138916 segundos para id municipio -> 99773
+2022-09-14 21:03:08,854 - INFO : Tiempo de escritura XTF: 6.585034132003784 segundos para id municipio -> 99773
+2022-09-14 21:03:08,855 - INFO : Ejecutando consulta: interesado.sql para id municipio -> 99773
+2022-09-14 21:03:17,278 - INFO : Tiempo de ejecución de la consulta interesado.sql: 8.422871351242065 segundos para id municipio -> 99773
+2022-09-14 21:03:17,627 - INFO : Tiempo de escritura XTF: 8.771742820739746 segundos para id municipio -> 99773
+2022-09-14 21:03:17,628 - INFO : Ejecutando consulta: datos_ph_condominio.sql para id municipio -> 99773
+2022-09-14 21:03:19,970 - INFO : Tiempo de ejecución de la consulta datos_ph_condominio.sql: 2.3416922092437744 segundos para id municipio -> 99773
+2022-09-14 21:03:19,971 - INFO : Tiempo de escritura XTF: 2.3427622318267822 segundos para id municipio -> 99773
+2022-09-14 21:03:19,972 - INFO : Ejecutando consulta: fuente_administrativa.sql para id municipio -> 99773
+2022-09-14 21:03:29,088 - INFO : Tiempo total de ejecución: 76.88904213905334 segundos para id municipio -> 99773
+2022-09-14 21:09:24,776 - INFO : Iniciando ejecución reporte catastral para -> 2022-09-14
+2022-09-14 21:09:26,140 - INFO : Lista de municipios obtenidos de la BD para generar reporte -> ['66088']
+2022-09-14 21:09:26,141 - INFO : Creando conexion con servidor geográfico
+2022-09-14 21:09:26,221 - INFO : Conexión con servidor geográfico establecida
+2022-09-14 21:09:27,274 - INFO : Ejecución insertada en la DB para id municipio -> 66088
+2022-09-14 21:09:27,276 - INFO : Enviando id municipio -> 66088 al servidor geográfico
+2022-09-14 21:09:27,279 - INFO : Esperando respuesta del servidor geográfico para id municipio -> 66088
+2022-09-14 21:13:01,460 - INFO : Respuesta obtenida del servidor geográfico -> {"exito": true, "archivos": ["Terreno", "Construccion", "Unidad"]} para id municipio-> 66088
+2022-09-14 21:13:01,464 - INFO : ruta remota base  para info geo-> /FTP/XTF/export-files/66088/2022/66088_2022-09-14 generada
+2022-09-14 21:13:01,466 - INFO : Ruta local generada para info geo-> C:\Users\SoporteTI\OrquestadorAlfanumerico\snc-inf-catastral\reportes\66088_2022-09-14
+2022-09-14 21:13:01,639 - INFO : Connected (version 2.0, client OpenSSH_7.4)
+2022-09-14 21:13:02,009 - INFO : Auth banner: b'============================================================\nEL USO DE ESTE EQUIPO Y TODOS SUS SERVICIOS ASOCIADOS ESTA\nRESTRINGIDO A PERSONAL CON AUTORIZACION ESPECIFICA PARA EL\nEMPLEO DE ESTOS. EL ACCESO NO AUTORIZADO SERA CONSIDERADO\nUNA VIOLACION A LAS LEYES Y PUEDE ESTAR SUJETO A MEDIDAS\nLEGALES O DISCIPLINARIAS. LAS ACTIVIDADES REALIZADAS EN ESTA\nRED DE COMUNICACIONES Y SUS SERVICIOS COMPUTACIONALES ESTAN\nSIENDO MONITOREADAS Y ALMACENADAS.\n============================================================\n'
+2022-09-14 21:13:02,014 - INFO : Authentication (password) successful!
+2022-09-14 21:13:02,338 - INFO : [chan 0] Opened sftp connection (server version 3)
+2022-09-14 21:13:10,769 - INFO : [chan 0] sftp session closed.
+2022-09-14 21:13:11,809 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Terreno: 1.034268856048584 segundos para id municipio -> 66088
+2022-09-14 21:13:12,189 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Construccion: 0.38002467155456543 segundos para id municipio -> 66088
+2022-09-14 21:13:12,788 - INFO : Tiempo de ejecución extrayendo datos para GeoJSON Unidad: 0.5979993343353271 segundos para id municipio -> 66088
+2022-09-14 21:13:12,810 - INFO : Tiempo de ejecución extrayendo diccionario de índices: 0.021077632904052734 segundos66088
+2022-09-14 21:13:12,814 - INFO : Ejecutando consulta: predio.sql para id municipio -> 66088
+2022-09-14 21:13:24,659 - INFO : Tiempo total de ejecución: 13.884787797927856 segundos para id municipio -> 66088

@@ -1,0 +1,8 @@
+cx_Oracle
+sqlalchemy
+python-dotenv
+pysftp
+websocket-client
+pandas
+openpyxl
+pygeoj
